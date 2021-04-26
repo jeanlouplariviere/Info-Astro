@@ -1,0 +1,73 @@
+.grandtitre{
+    
+text-align: left;
+    font-size:100px;
+    
+    margin:-5px;
+    word-spacing: 100px;
+    color:rgb(103 24 103)
+    
+ }
+ body{
+    background-color:rgb( 0 128 192)
+ }
+ .menu{
+    font-size:50px;
+    border-widht: 15px;
+    border-style: solid;
+    border-color:white;
+    text-align: center;
+    background-color:grey;
+    
+}
+.infoconstellation{
+    font-size:50px;
+     border-widht: 15px;
+    border-style: solid;
+    text-align: center;
+   background-color:grey;
+}
+
+.avenir{
+    font-size:50px;
+     border-widht: 15px;
+    border-style: solid;
+    text-align: center;
+    background-color:grey;
+}
+
+.queestilpassé{
+    font-size:50px;
+     border-widht: 15px;
+    border-style: solid;
+    text-align: center;
+    background-color:rgb(1 1 74);
+    color:white;
+}
+
+.question{
+    font-size:50px;
+     border-widht: 15px;
+    border-style: solid;
+    text-align: center;
+    background-color:grey;
+    
+}
+.nosproduits{
+ font-size:50px;
+     border-widht: 15px;
+    border-style: solid;
+    text-align: center;
+    background-color:grey;
+}
+.rien{
+    font-size:50px;
+    border-widht: 15px;
+    border-style: solid;
+    text-align: center;
+    background-color:grey;
+}
+.texte{
+    text-align: center;
+     font-size:40px;
+}
